@@ -4,6 +4,11 @@ package ies;
  * @author john lopez
  * @version 0.0
  */
+/**
+ * @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+ * @see <a href = "https://es.wikipedia.org/wiki/Programaci%C3%B3n" /> aprenderaprogramar.com – Didáctica en programación </a>
+ * @see #getPobla()
+ */
 public class Empleado {
 	private int emp_no;
 	private String nombre;
