@@ -1,5 +1,9 @@
 package ies;
-
+/**
+ * Esta clase la utilizo para poder documentar  con javadoc.
+ * @author john lopez
+ * @version 0.0
+ */
 public class Empleado {
 	private int emp_no;
 	private String nombre;
